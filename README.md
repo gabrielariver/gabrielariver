@@ -12,7 +12,7 @@ I'm **Gabriela Rivera**, a student at **Brigham Young University–Idaho**, pass
 
 ## Technologies and Tools
 
-- 💻 **Proficient in:** Java, C#, SQL, HTML, CSS  
+- 💻 **Proficient in:** Java, JavaScript, SQL, HTML, CSS  
 - 🧠 **Currently exploring:** MongoDB, Power BI, Azure Cloud, and Machine Learning fundamentals  
 - 🧰 **Skills:** Problem-solving, teamwork, version control (Git & GitHub), and technical writing  
 
